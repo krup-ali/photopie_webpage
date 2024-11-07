@@ -109,7 +109,7 @@
 #check:checked ~ .btn_one i{
 	opacity: 0;
 }
-@media (max-width: 575.98px) { 
+@media (max-width: 600.98px) { 
 	.main_box{
 		background-image: url("photo.jpg") ;
 		background-repeat: repeat-y;
